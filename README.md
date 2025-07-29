@@ -10,7 +10,7 @@ Hier wird in kürze eine Wissensdatenbank entstehen zum Umfassenden wissen was k
 - [Das Hexenmandat](/texte/Das-Hexenmandat)
 - [Die 3 Schwewstern, der anfang von allem](/texte/Die-3-Schwestern)
 - [Theorie der Dummheit](/texte/Theorie-der-Dummheit)
-- [Taror dies und das](/texte/Tarot-kleinigkeiten)
+- [Tarot dies und das](/texte/Tarot-kleinigkeiten)
 - [Albert Pike - Freimauer und die 3 Weltkriege](/texte/%20Albert%20Pike%201871%20seine%20Pläne.md)
 ## Kräuter Pflanzen und mehr
 - [Brenesseln Essbar machen](/texte/Brenesseln-Essfertig-machen)
