@@ -21,7 +21,7 @@ Hier wird in kürze eine Wissensdatenbank entstehen zum Umfassenden wissen was k
 - [Drachenakademie Webseite](https://drachenakademie.com)
 - [Der Admin auf Telegram](https://t.me/DerDrachenHueter)
 # Über Mich
-- [Etwas über mich und meinen NIc-NME](/texte/Neo-Details)
+- [Etwas über mich und meinen NIc-NME](/texte/Neo-Details.md)
 # Spenden
 Spenden dankend an:\
 Bitte als Verwendungszweck **"Spende"** Angeben\
