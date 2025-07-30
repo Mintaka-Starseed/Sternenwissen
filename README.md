@@ -1,4 +1,4 @@
-# Geheimes Wissen der Wissenden
+# Geheimes Wissen der Wissenden - Mintaka Starseed
 Hier wird in kürze eine Wissensdatenbank entstehen zum Umfassenden wissen was keiner weis ...
 ## Was dir gut Tut
 - [4 Elemente Meditation](https://www.youtube.com/watch?v=faeHdBZJLyk)
@@ -33,5 +33,3 @@ IBAN: DE72 1001 1001 2627 2687 38\
 BIC: NTSBDEB1XXX\
 <img width="434" height="410" alt="iban_DE72100110012627268738_zahlen-mit-code com" src="https://github.com/user-attachments/assets/0d261b88-a4b6-4b94-8658-b801d30d7b4b" />
 
-# publicdiscussion
-Allgemeine Diskussion
