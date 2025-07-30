@@ -1,4 +1,5 @@
 # Abracadabra
+![Abracadabra](../bilder/Abracadara.png)
 ## Allgemeines
 Das Wort **„Abracadabra“** ist ein magisches Wort, das traditionell in Zaubersprüchen oder als magische Formel verwendet wird. Es hat eine lange Geschichte und wird oft mit Magie, Zauberei und Heilzaubern in Verbindung gebracht.
 
