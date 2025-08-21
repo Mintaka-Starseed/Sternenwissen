@@ -14,6 +14,7 @@ Hier wird in kürze eine Wissensdatenbank entstehen zum Umfassenden wissen was k
 - [Albert Pike - Freimauer und die 3 Weltkriege](/texte/%20Albert%20Pike%201871%20seine%20Pläne.md)
 - [Abracadabra](/texte/abracadabra.md)
 - [Fliege als Krafttier](/texte/fliege-krafttier.md)
+- [Wodurch zeichnet sich ein Spirituelle Mensch aus](/texte/spirituelle-menschen.md)
 ## Kräuter Pflanzen und mehr
 - [Brenesseln Essbar machen](/texte/Brenesseln-Essfertig-machen.md)
 - [Löwenzahn Tinktur](/texte/L%C3%B6wenzahn-Tinktur.md)
