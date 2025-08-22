@@ -1,5 +1,6 @@
 # Geheimes Wissen der Wissenden - Mintaka Starseed
-Hier wird in kürze eine Wissensdatenbank entstehen zum Umfassenden wissen was keiner weis ...
+Hier wird in kürze eine Wissensdatenbank entstehen zum Umfassenden wissen was keiner weis ...\
+[Was ist Mintaka](/texte/mintaka.md)
 ## Was dir gut Tut
 - [4 Elemente Meditation](https://www.youtube.com/watch?v=faeHdBZJLyk)
 ## Wissen über dies und das
