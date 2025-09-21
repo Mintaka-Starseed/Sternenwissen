@@ -9,9 +9,9 @@ Ambeth (auch Anbeth genannt) ist die Erdmutter. Wilbeth wird mit dem Mond und Bo
 
 Die drei Schwestern oder Göttinnen, die als „Bethen“ bekannt sind, heißen:
 
-* **Wilbeth** (Mond) - (Katharina) - {Kaspar}
-* **Ambeth** (Erde) - (Margarete) - {Melchior}
-* **Borbeth** (Sonne) - (Barbara) - {Baltasar}
+* **Wilbeth** (Mond) - (Katharina) - {Kaspar} - {Brama}
+* **Ambeth** (Erde) - (Margarete) - {Melchior} - {Vishnu}
+* **Borbeth** (Sonne) - (Barbara) - {Baltasar} - {Shiva}
 
 **Zur Nachfrage hinzufügen**
 
