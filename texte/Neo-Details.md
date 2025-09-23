@@ -33,3 +33,46 @@ Citations:
 
 ---
 Antwort von Perplexity: https://www.perplexity.ai/search/kannst-du-mir-die-grosse-arkan-_yKYCO59SOGLFIy1FbqNkg?utm_source=copy_output
+
+# Tarot Bedeutung
+
+was bedeuten die Zraotkarten der großen arkana mit den zahlen 11, 13, 1 und 0
+
+Die Tarotkarten der großen Arkana mit den Zahlen 11, 13, 1 und 0 stehen für zentrale archetypische Themen und Lebenslektionen im Tarot. Ihre Bedeutungen sind klar definiert und haben jeweils eine tiefgründige symbolische Aussage[2][3][4][5].
+
+### Karte 0 – Der Narr
+Der Narr steht für den Neuanfang, Unschuld und Sorglosigkeit[2][5]. Er symbolisiert den Beginn einer spirituellen oder lebensverändernden Reise und das Vertrauen, sich auf unbekannte Pfade zu begeben. Der Narr ermutigt zur Offenheit und zur Bereitschaft, neue Erfahrungen zu sammeln ohne Angst vor Fehlern[5].
+
+### Karte 1 – Der Magier
+Der Magier repräsentiert Kreativität, Willenskraft und die Fähigkeit zur Manifestation[2]. Diese Karte steht für Selbstbewusstsein, aktive Gestaltung und den bewussten Einsatz der eigenen Ressourcen. Sie zeigt, dass die Kraft zur Veränderung und Gestaltung bereits vorhanden ist und genutzt werden sollte[2].
+
+### Karte 11 – Die Gerechtigkeit (oder Kraft)
+Je nach Deck kann die Nummer 11 entweder Gerechtigkeit oder Kraft sein. Im Rider-Waite-System steht sie für Gerechtigkeit: Fairness, Wahrheit und die Konsequenzen eigener Entscheidungen[2][3]. Die Karte betont Selbstverantwortung, Ausgleich und objektive Überlegung. Sie fordert dazu auf, ehrlich und verantwortungsbewusst zu handeln[3].
+In anderen Tarotsystemen ist 11 die Kraft, welche innere Stärke, Mut und Durchhaltevermögen ausdrückt[1][4].
+
+### Karte 13 – Der Tod
+Diese Karte steht für das Ende eines Zyklus, für Transformation und Neubeginn[2][4]. Sie ist kein Zeichen von physischem Tod, sondern von Abschied, Loslassen und dem Start von etwas Neuem. Der Tod deutet eine tiefgreifende Veränderung an, die Platz für Neues schafft[4].
+
+***
+
+Die Bedeutungen im Überblick:
+| Nummer | Name        | Bedeutung                                                      |
+|--------|------------|---------------------------------------------------------------|
+| 0      | Der Narr   | Neuanfang, Unbekümmertheit, Offenheit, Reisestart [2][5]   |
+| 1      | Der Magier | Manifestation, Willenskraft, Kreativität, Selbstermächtigung [2] |
+| 11     | Gerechtigkeit/Kraft | Fairness, Wahrheit, Verantwortung/Mut, innere Stärke [1][2][3][4] |
+| 13     | Der Tod    | Ende, Transformation, Loslassen, Neubeginn [2][4]           |
+
+Jede große Arkana-Karte steht für eine grundlegende Entwicklungsstufe oder Lebenslektion[2][4].
+
+Quellen:
+[1] Tarotkarten Bedeutung: Die Große Arkana (Karten 1-22) https://www.meinspiel.de/blog/tarotkarten-bedeutung-die-grosse-arkana/
+[2] Große Arkana im Tarot - Bedeutung aller 22 Karten https://www.soultarot.de/raider-waite/bedeutung/grosse-arkana/
+[3] Tarotkarte Nr. 11: Die Gerechtigkeit im Tarot mit Bedeutung https://tarot-entdecken.de/tarotkarten/die-gerechtigkeit-bedeutung/
+[4] Grosse Arkana im Tarot: Bedeutung der 22 Karten https://www.matchamornings.de/wellnessjournal/grosse-arkana-tarot
+[5] Große Arkana https://anthrowiki.at/Gro%C3%9Fe_Arkana
+[6] Die Gerechtigkeit - deine Tarotkarte https://www.brigitte.de/horoskop/tarot/die-gerechtigkeit---deine-tarotkarte-10888876.html
+[7] Tarotkarte die Gerechtigkeit - Praxisnah und Verständlich https://tarot-secret.com/tarotkarten/major-arkana/11-die-gerechtigkeit/
+[8] Gerechtigkeit im Tarot: Bedeutung für Liebe & Beruf https://www.matchamornings.de/wellnessjournal/gerechtigkeit-tarot
+[9] Die Gerechtigkeit (Tarot) https://de.wikipedia.org/wiki/Die_Gerechtigkeit_(Tarot)
+[10] Die Kraft - deine Tarotkarte https://www.brigitte.de/horoskop/tarot/die-kraft---deine-tarotkarte-10890754.html
