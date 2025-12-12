@@ -52,3 +52,17 @@ Es gibt neben den drei Haupt-Nornen auch viele andere Nornen, die für einzelne 
 
 Soll ich dir **eine kurze, bildhafte Zusammenfassung** machen, wie die Nornen an Yggdrasil wirken?  
 Oder möchtest du **einen Vergleich zu den griechischen Moiren** (Schicksalsgöttinnen) oder **eine Illustration der Szene**?
+
+## Hildegard von Bingen
+
+Das Kloster der Hildegard von Bingen - Disibodenberg \
+eincodiertes Heidentum
+
+**Germanisch:**\
+- dis/disi = Weib - weiblicher Schutzgeist
+- Boden: Alte schriften Boden / Borden -> Borbetd -> Barbeth
+- Disi-Boden-Berg = Berg der weiblischen Schutzgöttin
+
+https://www.bad-kreuznach-tourist.de/aktiv-und-natur/ausflugsziele/disibodenberg-kloster-der-heiligen-hildegard/
+
+
