@@ -7,7 +7,7 @@ Ambeth (auch Anbeth genannt) ist die Erdmutter. Wilbeth wird mit dem Mond und Bo
 
 [Gute Beschreibung](https://artedea.net/bethen-die-heiligen-drei-madln/)
 
-Die drei Schwestern oder Göttinnen, die als „Bethen“ bekannt sind, heißen:
+Die drei Schwestern oder Göttinnen, die als „Bethen“ oder "Nornen" ekannt sind, heißen:
 
 * **Wilbeth** (Mond) - (Katharina) - {Kaspar} - {Brama}
 * **Ambeth** (Erde) - (Margarete) - {Melchior} - {Vishnu}
@@ -23,3 +23,32 @@ Die drei Schwestern oder Göttinnen, die als „Bethen“ bekannt sind, heißen:
 - [https://de.wikipedia.org/wiki/Erdg%C3%B6ttin](https://de.wikipedia.org/wiki/Erdg%C3%B6ttin)
 - [https://kraft-der-frauen.hpage.com/get_file.php?id=26545169&vnr=789628](https://kraft-der-frauen.hpage.com/get_file.php?id=26545169&vnr=789628)
 - [https://wiki.yoga-vidya.de/Erdg%C3%B6ttin](https://wiki.yoga-vidya.de/Erdg%C3%B6ttin)
+
+## Die Nornen
+
+Die drei Nornen stammen aus der nordischen Mythologie und sind Schicksalsgöttinnen, die das Leben und den Lauf der Welt bestimmen. Sie erscheinen im **„Völuspá“** und anderen Edda-Texten. Hier sind die wichtigsten Punkte:
+
+### **Wer sind die Nornen?**
+
+*   **Urd (Urðr)** – steht für die **Vergangenheit** („das Gewordene“).
+*   **Verdandi (Verðandi)** – symbolisiert die **Gegenwart** („das Werdende“).
+*   **Skuld** – repräsentiert die **Zukunft** („das, was geschehen soll“).
+
+### **Ihre Rolle**
+
+*   Sie sitzen am **Fuß der Weltesche Yggdrasil**, am Brunnen **Urdarbrunnr**.
+*   Ihre Aufgabe ist es, die **Schicksalsfäden** zu spinnen und die Lebenslinien aller Wesen zu bestimmen.
+*   Sie ritzen Runen in Holz und weben die Fäden des Lebens – eine sehr mächtige und unumstößliche Tätigkeit.
+
+### **Symbolik**
+
+*   Die Nornen verkörpern die Unausweichlichkeit des Schicksals.
+*   Sie sind nicht nur für Menschen zuständig, sondern auch für Götter – sogar Odin unterliegt ihrem Einfluss.
+*   Ihr Wirken ist eng mit dem Konzept von **Zeit und Vergänglichkeit** verbunden.
+
+### **Interessanter Aspekt**
+
+Es gibt neben den drei Haupt-Nornen auch viele andere Nornen, die für einzelne Menschen oder Ereignisse zuständig sind. Manche bringen Glück, andere Unglück.
+
+Soll ich dir **eine kurze, bildhafte Zusammenfassung** machen, wie die Nornen an Yggdrasil wirken?  
+Oder möchtest du **einen Vergleich zu den griechischen Moiren** (Schicksalsgöttinnen) oder **eine Illustration der Szene**?
