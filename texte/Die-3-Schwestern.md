@@ -65,4 +65,17 @@ eincodiertes Heidentum
 
 https://www.bad-kreuznach-tourist.de/aktiv-und-natur/ausflugsziele/disibodenberg-kloster-der-heiligen-hildegard/
 
+## Frauenberge - Orte
+
+# DIe Bethen
+Externsteine
+
+https://de.wikipedia.org/wiki/Externsteine
+
+https://de.wikipedia.org/wiki/Odilienberg
+
+https://de.wikipedia.org/wiki/Glauberg
+
+https://de.wikipedia.org/wiki/Helgoland
+
 Youtube Quelle - https://youtu.be/e0Hlq84qCq0?si=g_OJE8Ren63cb_TG 
