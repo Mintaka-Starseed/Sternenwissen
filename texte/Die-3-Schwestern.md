@@ -65,4 +65,4 @@ eincodiertes Heidentum
 
 https://www.bad-kreuznach-tourist.de/aktiv-und-natur/ausflugsziele/disibodenberg-kloster-der-heiligen-hildegard/
 
-
+Youtube Quelle - https://youtu.be/e0Hlq84qCq0?si=g_OJE8Ren63cb_TG 
