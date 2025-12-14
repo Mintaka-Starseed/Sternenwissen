@@ -16,7 +16,7 @@ Druiden ("Eichen-Wissende") studierten Bäume lebenslang für Heilkunde, Magie u
 
 [1](https://www.youtube.com/watch?v=GyE_-1WmvQo)
 
-# Detail Text
+# Detail Text - Zusammenfassung
 
 Die Kelten verehrten Götter nicht in Tempeln, sondern in Wäldern, wo Bäume als lebendige Wesen mit Seele, Kraft und Botschaft galten. Druiden widmeten ihr Leben dem Studium dieser Bäume, ihrer Heilkraft und Magie – manche durfte man nur rituell betreten. Hier die sieben heiligen Bäume, strukturiert nach ihrer Bedeutung in keltischer Spiritualität und Heilkunde.
 
@@ -44,7 +44,7 @@ Wohnt Frau Holle/Göttin – fällen verflucht Haus und Familie; Ernte nur mit B
 ## Schluss: Lehren der Bäume
 Diese sieben Bäume lehrten Stärke (Eiche), Respekt vor Tod (Eibe), Heilung (Weide), Erneuerung (Birke), Weisheit (Hasel), Schutz (Eberesche) und Demut (Holunder). Druidenwissen verblasst, doch Bäume sprechen weiter – Zeit zuzuhören. Dies verbindet Spiritualität, Heilkunde und Magie.
 
-# Mit Mehr Format
+# Transscript mit Mehr Format
 
 Die Kelten verehrten keine Götter in Tempeln. Sie verehrten sie in Wäldern. 
 
