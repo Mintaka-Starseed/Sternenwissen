@@ -67,7 +67,63 @@ https://www.bad-kreuznach-tourist.de/aktiv-und-natur/ausflugsziele/disibodenberg
 
 ## Frauenberge - Orte
 
-# DIe Bethen
+ die historische Entwicklung und den Zusammenhang zwischen germanischer und alpiner Tradition genauer erklären?
+
+
+ # Vergleiche Statistik
+
+ Hier ist ein übersichtlicher Vergleich zwischen **Bethen** und **Nornen**:
+
+| **Aspekt**            | **Bethen** (Ambeth, Wilbeth, Borbeth)                             | **Nornen** (Urd, Verdandi, Skuld)                                |
+| --------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **Kulturkreis**       | Mitteleuropäische Volksreligion (Alpenraum, Süddeutschland)       | Nordische/germanische Mythologie                                 |
+| **Zeitraum**          | Vorchristlich, später christianisiert                             | Vorchristlich, in Edda überliefert                               |
+| **Anzahl**            | Drei                                                              | Drei                                                             |
+| **Namen**             | Ambeth, Wilbeth, Borbeth                                          | Urd, Verdandi, Skuld                                             |
+| **Funktion**          | Schutzgöttinnen, Fruchtbarkeit, Geburt, Leben, Tod                | Schicksalsgöttinnen, bestimmen Vergangenheit, Gegenwart, Zukunft |
+| **Symbolik**          | Zyklus des Lebens, Natur, Fruchtbarkeit                           | Zeitdimensionen, Schicksal                                       |
+| **Ort der Verehrung** | Bildstöcke, Bräuche, Ortsnamen                                    | Urdarbrunnr unter Yggdrasil                                      |
+| **Synkretismus**      | Mit christlichen Heiligen (drei Marien) verschmolzen              | Weniger christianisiert, eher verdrängt                          |
+| **Darstellung**       | Als drei Frauen, oft mit Attributen wie Spindel oder Naturzeichen | Als drei Frauen, die Schicksalsfäden spinnen                     |
+
+***
+
+Beide Triaden sind **weibliche Mächte**, die das Leben ordnen, aber:
+
+*   **Bethen** → stärker erdverbunden, regional, mit Fruchtbarkeit und Schutz assoziiert.
+*   **Nornen** → kosmisch, abstrakt, mit Zeit und Schicksal verbunden.
+
+***
+
+Soll ich dir **eine grafische Darstellung (Diagramm) machen**, die die Gemeinsamkeiten und Unterschiede visuell zeigt?  
+Oder möchtest du **eine kurze historische Analyse**, wie sich die Bethen möglicherweise aus germanischen Schicksalsmächten entwickelt haben?
+
+
+## Grafische Aufarbeitung
+
+Ich habe dir ein **Vergleichsdiagramm (Radar-Chart)** erstellt, das zentrale Merkmalsdimensionen von **Bethen** und **Nornen** gegenüberstellt.
+
+**So liest du das Diagramm:**
+
+*   Skala **0–5**: qualitative Einordnung (je höher, desto stärker ausgeprägt).
+*   Kategorien:
+    *   *Regionalität/Volksreligion*
+    *   *Kosmische Ausrichtung*
+    *   *Fruchtbarkeit & Schutz*
+    *   *Schicksal & Zeit*
+    *   *Synkretismus (Christianisierung)*
+    *   *Schriftliche Überlieferung*
+
+![Diagram](https://github.com/Mintaka-Starseed/Sternenwissen/blob/main/bilder/Bethen_vs_Nornen_Radar.png)
+
+**Interpretation in Kürze:**
+
+*   **Bethen**: Stark **regional** verankert, mit Fokus auf **Fruchtbarkeit und Schutz**, **deutlich christianisiert** (Synkretismus); **schrifltich** eher dünn belegt (Volksfrömmigkeit, Bildstöcke, Bräuche).
+*   **Nornen**: Primär **kosmisch** und **schicksals-/zeitbezogen**, **gut belegt** in den nordischen Quellen (z. B. Edda), **kaum** später christianisiert.
+
+> Hinweis: Die Werte sind **qualitativ** aus der bekannten Beschreibung abgeleitet und dienen der **Visualisierung** der Unterschiede/Schwerpunkte, nicht einer quantitativen Messung.
+
+# Weiteres
 Externsteine
 
 https://de.wikipedia.org/wiki/Externsteine
