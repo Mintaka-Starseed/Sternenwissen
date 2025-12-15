@@ -47,7 +47,7 @@ Wenn du möchtest, kann ich dir typische **Praxisbeispiele**, **Strategien zur A
 
 Soll ich dir eine einfache Grafik der Yerkes-Dodson-Kurve mit Praxisbeispielen erstellen?
 
-## Praxis
+## Kurve
 
 ![Kurve](https://github.com/Mintaka-Starseed/Sternenwissen/blob/main/bilder/Yerkes-Dodson-Kurve.png)  
 
@@ -55,3 +55,52 @@ Hier ist die einfache Grafik der Yerkes-Dodson-Kurve mit Praxisbeispielen:
 - Links (niedrige Erregung): „Falling asleep in a meeting“ → geringe Aktivierung, schlechte Leistung.
 - Mitte (moderate Erregung): „Delivering a good presentation“ → optimale Aktivierung, beste Leistung.
 - Rechts (hohe Erregung): „Feeling overwhelmed by deadlines“ → Überforderung, Leistung sinkt.
+
+## Tipps zur Umsetzung
+
+Hier sind **praktische Tipps für den Alltag**, basierend auf der Yerkes-Dodson-Kurve:
+
+***
+
+### ✅ **1. Finde dein optimales Stresslevel**
+
+*   **Zu wenig Aktivierung** (links auf der Kurve): Du bist gelangweilt oder unmotiviert.
+    *   **Tipp**: Setze dir kleine Zwischenziele oder arbeite mit einem Timer (z. B. Pomodoro-Technik), um Fokus zu steigern.
+*   **Zu viel Aktivierung** (rechts auf der Kurve): Du bist überfordert oder gestresst.
+    *   **Tipp**: Plane Pausen ein, atme bewusst, oder nutze kurze Spaziergänge, um Stress zu senken.
+
+***
+
+### ✅ **2. Nutze „Eustress“ statt Distress**
+
+*   **Eustress** = positiver Stress, der dich antreibt.
+    *   **Tipp**: Bereite dich gut vor (z. B. für Präsentationen), damit Nervosität dich motiviert statt blockiert.
+*   **Distress** = negativer Stress, der Leistung hemmt.
+    *   **Tipp**: Erkenne Warnsignale (Schlafprobleme, Gereiztheit) und reduziere Belastung.
+
+***
+
+### ✅ **3. Plane anspruchsvolle Aufgaben in Hochleistungsphasen**
+
+*   Die Mitte der Kurve ist ideal für komplexe Aufgaben.
+    *   **Tipp**: Erledige kreative oder analytische Arbeiten, wenn du wach und konzentriert bist (z. B. vormittags).
+
+***
+
+### ✅ **4. Verwende Stressmanagement-Techniken**
+
+*   **Atmung**: 4-7-8-Technik (4 Sek. einatmen, 7 halten, 8 ausatmen).
+*   **Bewegung**: Kurze Spaziergänge oder Dehnübungen.
+*   **Priorisierung**: Nutze Eisenhower-Matrix oder To-Do-Apps, um Überforderung zu vermeiden.
+
+***
+
+### ✅ **5. Passe dein Umfeld an**
+
+*   **Zu ruhig?**: Hör motivierende Musik oder arbeite in einem belebten Café.
+*   **Zu hektisch?**: Schalte Benachrichtigungen aus, nutze Noise-Cancelling-Kopfhörer.
+
+***
+
+Willst du, dass ich dir **eine kompakte Infografik mit diesen Tipps und der Kurve** erstelle?  
+Oder soll ich **eine Checkliste für deinen Arbeitsalltag** machen, die du direkt nutzen kannst?
