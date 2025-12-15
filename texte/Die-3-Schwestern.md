@@ -2,7 +2,7 @@
 
 ## Allgemeines
 
-Ambeth (auch Anbeth genannt) ist die Erdmutter. Wilbeth wird mit dem Mond und Borbeth mit der Sonne in Verbindung gebracht. Diese Triade stammt aus dem keltisch-alpenländischen Raum und wird auch als die „heiligen drei Madln“ bezeichnet\
+Ambeth (auch Anbeth genannt) ist die Erdmutter. Wilbeth wird mit dem Mond und Borbeth mit der Sonne in Verbindung gebracht. Diese Triade stammt aus dem keltisch-alpenländischen Raum und wird auch als die „heiligen drei Madln“ bezeichnet  
 ![Die-Heiligen-3-Madln](https://github.com/Mintaka-Starseed/publicdiscussion/blob/main/bilder/Die-Heiligen-3-Madln.png?raw=true)
 
 [Gute Beschreibung](https://artedea.net/bethen-die-heiligen-drei-madln/)
@@ -55,10 +55,10 @@ Oder möchtest du **einen Vergleich zu den griechischen Moiren** (Schicksalsgöt
 
 ## Hildegard von Bingen
 
-Das Kloster der Hildegard von Bingen - Disibodenberg \
+Das Kloster der Hildegard von Bingen - Disibodenberg  
 eincodiertes Heidentum
 
-**Germanisch:**\
+**Germanisch:**  
 - dis/disi = Weib - weiblicher Schutzgeist
 - Boden: Alte schriften Boden / Borden -> Borbetd -> Barbeth
 - Disi-Boden-Berg = Berg der weiblischen Schutzgöttin
