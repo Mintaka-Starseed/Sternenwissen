@@ -7,7 +7,7 @@ Ambeth (auch Anbeth genannt) ist die Erdmutter. Wilbeth wird mit dem Mond und Bo
 
 [Gute Beschreibung](https://artedea.net/bethen-die-heiligen-drei-madln/)
 
-Die drei Schwestern oder Göttinnen, die als „Bethen“ oder "Nornen" ekannt sind, heißen:
+Die drei Schwestern oder Göttinnen, die als „Bethen“ oder "Nornen" bekannt sind, heißen:
 
 * **Wilbeth** (Mond) - (Katharina) - {Kaspar} - {Brama}
 * **Ambeth** (Erde) - (Margarete) - {Melchior} - {Vishnu}
