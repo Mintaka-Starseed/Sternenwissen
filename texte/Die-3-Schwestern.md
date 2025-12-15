@@ -129,3 +129,25 @@ Ich habe dir ein **Vergleichsdiagramm (Radar-Chart)** erstellt, das zentrale Mer
 *   **Nornen**: Primär **kosmisch** und **schicksals-/zeitbezogen**, **gut belegt** in den nordischen Quellen (z. B. Edda), **kaum** später christianisiert.
 
 > Hinweis: Die Werte sind **qualitativ** aus der bekannten Beschreibung abgeleitet und dienen der **Visualisierung** der Unterschiede/Schwerpunkte, nicht einer quantitativen Messung.
+>
+> # Zeitphasen der Ausprägung
+
+***Interpretation der Phasen***
+
+1. Indogermanische Wurzeln (-1500 bis 0)
+   - Triaden weiblicher Schicksalsmächte in vielen indoeuropäischen Kulturen (z. B. Moiren, Parzen).
+   - Grundmotiv: Weben/Spinnen des Lebensfadens.
+
+2. Germanische Mythologie: Nornen (500–800)
+   - Urd, Verdandi, Skuld in der nordischen Tradition.
+   - Kosmische Schicksalsordnung, Zeitdimensionen (Vergangenheit, Gegenwart, Zukunft).
+
+3. Regionale Ausprägung: Bethen (800–1200)
+   - Ambeth, Wilbeth, Borbeth im Alpenraum.
+   - Fokus auf Schutz, Fruchtbarkeit, Geburt/Leben/Tod.
+   - Volksreligion, Bildstöcke, Ortsnamen.
+
+4. Christianisierung & Synkretismus (1200–1600)
+   - Bethen verschmelzen mit christlichen Heiligen (drei Marien).
+   - Bräuche bleiben, aber unter kirchlichem Deckmantel.
+
