@@ -46,3 +46,12 @@ Hier ist eine präzise Erklärung zur vermutlich gemeinten **Yerkes‑Dodson‑K
 Wenn du möchtest, kann ich dir typische **Praxisbeispiele**, **Strategien zur Arousal‑Steuerung**, oder einen **Grafikentwurf** der Kurve im Kopf visualisieren.
 
 Soll ich dir eine einfache Grafik der Yerkes-Dodson-Kurve mit Praxisbeispielen erstellen?
+
+## Praxis
+
+![Kurve](https://github.com/Mintaka-Starseed/Sternenwissen/blob/main/bilder/Yerkes-Dodson-Kurve.png)  
+
+Hier ist die einfache Grafik der Yerkes-Dodson-Kurve mit Praxisbeispielen:  
+- Links (niedrige Erregung): „Falling asleep in a meeting“ → geringe Aktivierung, schlechte Leistung.
+- Mitte (moderate Erregung): „Delivering a good presentation“ → optimale Aktivierung, beste Leistung.
+- Rechts (hohe Erregung): „Feeling overwhelmed by deadlines“ → Überforderung, Leistung sinkt.
