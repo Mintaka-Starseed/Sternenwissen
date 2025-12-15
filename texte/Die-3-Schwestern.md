@@ -67,10 +67,17 @@ https://www.bad-kreuznach-tourist.de/aktiv-und-natur/ausflugsziele/disibodenberg
 
 ## Frauenberge - Orte
 
- die historische Entwicklung und den Zusammenhang zwischen germanischer und alpiner Tradition genauer erklären?
+https://de.wikipedia.org/wiki/Externsteine
 
+https://de.wikipedia.org/wiki/Odilienberg
 
- # Vergleiche Statistik
+https://de.wikipedia.org/wiki/Glauberg
+
+https://de.wikipedia.org/wiki/Helgoland
+
+Youtube Quelle - https://youtu.be/e0Hlq84qCq0?si=g_OJE8Ren63cb_TG 
+
+# Vergleiche Statistik
 
  Hier ist ein übersichtlicher Vergleich zwischen **Bethen** und **Nornen**:
 
@@ -122,16 +129,3 @@ Ich habe dir ein **Vergleichsdiagramm (Radar-Chart)** erstellt, das zentrale Mer
 *   **Nornen**: Primär **kosmisch** und **schicksals-/zeitbezogen**, **gut belegt** in den nordischen Quellen (z. B. Edda), **kaum** später christianisiert.
 
 > Hinweis: Die Werte sind **qualitativ** aus der bekannten Beschreibung abgeleitet und dienen der **Visualisierung** der Unterschiede/Schwerpunkte, nicht einer quantitativen Messung.
-
-# Weiteres
-Externsteine
-
-https://de.wikipedia.org/wiki/Externsteine
-
-https://de.wikipedia.org/wiki/Odilienberg
-
-https://de.wikipedia.org/wiki/Glauberg
-
-https://de.wikipedia.org/wiki/Helgoland
-
-Youtube Quelle - https://youtu.be/e0Hlq84qCq0?si=g_OJE8Ren63cb_TG 
