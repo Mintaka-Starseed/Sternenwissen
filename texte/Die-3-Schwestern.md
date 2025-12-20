@@ -2,12 +2,12 @@
 
 ## Allgemeines
 
-Ambeth (auch Anbeth genannt) ist die Erdmutter. Wilbeth wird mit dem Mond und Borbeth mit der Sonne in Verbindung gebracht. Diese Triade stammt aus dem keltisch-alpenländischen Raum und wird auch als die „heiligen drei Madln“ bezeichnet\
+Ambeth (auch Anbeth genannt) ist die Erdmutter. Wilbeth wird mit dem Mond und Borbeth mit der Sonne in Verbindung gebracht. Diese Triade stammt aus dem keltisch-alpenländischen Raum und wird auch als die „heiligen drei Madln“ bezeichnet  
 ![Die-Heiligen-3-Madln](https://github.com/Mintaka-Starseed/publicdiscussion/blob/main/bilder/Die-Heiligen-3-Madln.png?raw=true)
 
 [Gute Beschreibung](https://artedea.net/bethen-die-heiligen-drei-madln/)
 
-Die drei Schwestern oder Göttinnen, die als „Bethen“ oder "Nornen" ekannt sind, heißen:
+Die drei Schwestern oder Göttinnen, die als „Bethen“ oder "Nornen" bekannt sind, heißen:
 
 * **Wilbeth** (Mond) - (Katharina) - {Kaspar} - {Brama}
 * **Ambeth** (Erde) - (Margarete) - {Melchior} - {Vishnu}
@@ -55,10 +55,10 @@ Oder möchtest du **einen Vergleich zu den griechischen Moiren** (Schicksalsgöt
 
 ## Hildegard von Bingen
 
-Das Kloster der Hildegard von Bingen - Disibodenberg \
+Das Kloster der Hildegard von Bingen - Disibodenberg  
 eincodiertes Heidentum
 
-**Germanisch:**\
+**Germanisch:**  
 - dis/disi = Weib - weiblicher Schutzgeist
 - Boden: Alte schriften Boden / Borden -> Borbetd -> Barbeth
 - Disi-Boden-Berg = Berg der weiblischen Schutzgöttin
@@ -66,9 +66,6 @@ eincodiertes Heidentum
 https://www.bad-kreuznach-tourist.de/aktiv-und-natur/ausflugsziele/disibodenberg-kloster-der-heiligen-hildegard/
 
 ## Frauenberge - Orte
-
-# DIe Bethen
-Externsteine
 
 https://de.wikipedia.org/wiki/Externsteine
 
@@ -79,3 +76,78 @@ https://de.wikipedia.org/wiki/Glauberg
 https://de.wikipedia.org/wiki/Helgoland
 
 Youtube Quelle - https://youtu.be/e0Hlq84qCq0?si=g_OJE8Ren63cb_TG 
+
+# Vergleiche Statistik
+
+ Hier ist ein übersichtlicher Vergleich zwischen **Bethen** und **Nornen**:
+
+| **Aspekt**            | **Bethen** (Ambeth, Wilbeth, Borbeth)                             | **Nornen** (Urd, Verdandi, Skuld)                                |
+| --------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **Kulturkreis**       | Mitteleuropäische Volksreligion (Alpenraum, Süddeutschland)       | Nordische/germanische Mythologie                                 |
+| **Zeitraum**          | Vorchristlich, später christianisiert                             | Vorchristlich, in Edda überliefert                               |
+| **Anzahl**            | Drei                                                              | Drei                                                             |
+| **Namen**             | Ambeth, Wilbeth, Borbeth                                          | Urd, Verdandi, Skuld                                             |
+| **Funktion**          | Schutzgöttinnen, Fruchtbarkeit, Geburt, Leben, Tod                | Schicksalsgöttinnen, bestimmen Vergangenheit, Gegenwart, Zukunft |
+| **Symbolik**          | Zyklus des Lebens, Natur, Fruchtbarkeit                           | Zeitdimensionen, Schicksal                                       |
+| **Ort der Verehrung** | Bildstöcke, Bräuche, Ortsnamen                                    | Urdarbrunnr unter Yggdrasil                                      |
+| **Synkretismus**      | Mit christlichen Heiligen (drei Marien) verschmolzen              | Weniger christianisiert, eher verdrängt                          |
+| **Darstellung**       | Als drei Frauen, oft mit Attributen wie Spindel oder Naturzeichen | Als drei Frauen, die Schicksalsfäden spinnen                     |
+
+***
+
+Beide Triaden sind **weibliche Mächte**, die das Leben ordnen, aber:
+
+*   **Bethen** → stärker erdverbunden, regional, mit Fruchtbarkeit und Schutz assoziiert.
+*   **Nornen** → kosmisch, abstrakt, mit Zeit und Schicksal verbunden.
+
+***
+
+Soll ich dir **eine grafische Darstellung (Diagramm) machen**, die die Gemeinsamkeiten und Unterschiede visuell zeigt?  
+Oder möchtest du **eine kurze historische Analyse**, wie sich die Bethen möglicherweise aus germanischen Schicksalsmächten entwickelt haben?
+
+
+## Grafische Aufarbeitung
+
+Ich habe dir ein **Vergleichsdiagramm (Radar-Chart)** erstellt, das zentrale Merkmalsdimensionen von **Bethen** und **Nornen** gegenüberstellt.
+
+**So liest du das Diagramm:**
+
+*   Skala **0–5**: qualitative Einordnung (je höher, desto stärker ausgeprägt).
+*   Kategorien:
+    *   *Regionalität/Volksreligion*
+    *   *Kosmische Ausrichtung*
+    *   *Fruchtbarkeit & Schutz*
+    *   *Schicksal & Zeit*
+    *   *Synkretismus (Christianisierung)*
+    *   *Schriftliche Überlieferung*
+
+![Diagram](https://github.com/Mintaka-Starseed/Sternenwissen/blob/main/bilder/Bethen_vs_Nornen_Radar.png)
+
+**Interpretation in Kürze:**
+
+*   **Bethen**: Stark **regional** verankert, mit Fokus auf **Fruchtbarkeit und Schutz**, **deutlich christianisiert** (Synkretismus); **schrifltich** eher dünn belegt (Volksfrömmigkeit, Bildstöcke, Bräuche).
+*   **Nornen**: Primär **kosmisch** und **schicksals-/zeitbezogen**, **gut belegt** in den nordischen Quellen (z. B. Edda), **kaum** später christianisiert.
+
+> Hinweis: Die Werte sind **qualitativ** aus der bekannten Beschreibung abgeleitet und dienen der **Visualisierung** der Unterschiede/Schwerpunkte, nicht einer quantitativen Messung.
+>
+> # Zeitphasen der Ausprägung
+
+***Interpretation der Phasen***
+
+1. Indogermanische Wurzeln (-1500 bis 0)
+   - Triaden weiblicher Schicksalsmächte in vielen indoeuropäischen Kulturen (z. B. Moiren, Parzen).
+   - Grundmotiv: Weben/Spinnen des Lebensfadens.
+
+2. Germanische Mythologie: Nornen (500–800)
+   - Urd, Verdandi, Skuld in der nordischen Tradition.
+   - Kosmische Schicksalsordnung, Zeitdimensionen (Vergangenheit, Gegenwart, Zukunft).
+
+3. Regionale Ausprägung: Bethen (800–1200)
+   - Ambeth, Wilbeth, Borbeth im Alpenraum.
+   - Fokus auf Schutz, Fruchtbarkeit, Geburt/Leben/Tod.
+   - Volksreligion, Bildstöcke, Ortsnamen.
+
+4. Christianisierung & Synkretismus (1200–1600)
+   - Bethen verschmelzen mit christlichen Heiligen (drei Marien).
+   - Bräuche bleiben, aber unter kirchlichem Deckmantel.
+
