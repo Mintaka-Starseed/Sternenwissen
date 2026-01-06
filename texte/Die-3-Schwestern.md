@@ -1,5 +1,11 @@
 # Die 3 Schwestern
 
+## Vorwort
+
+Dieser Bericht wurde inspiriert von "Der Sagen-Forscher" Tim von Lindenau und seinesm Video  
+[Video - Die drei Schwestern](https://www.youtube.com/watch?v=7Tki8iJp_0w)   
+Dies hat mich veranlasst dies zusammen zu Tragen.  
+
 ## Allgemeines
 
 Ambeth (auch Anbeth genannt) ist die Erdmutter. Wilbeth wird mit dem Mond und Borbeth mit der Sonne in Verbindung gebracht. Diese Triade stammt aus dem keltisch-alpenländischen Raum und wird auch als die „heiligen drei Madln“ bezeichnet  
