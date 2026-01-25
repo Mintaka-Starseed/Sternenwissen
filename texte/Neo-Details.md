@@ -36,7 +36,7 @@ Antwort von Perplexity: https://www.perplexity.ai/search/kannst-du-mir-die-gross
 
 # Tarot Bedeutung
 
-was bedeuten die Zraotkarten der großen arkana mit den zahlen 11, 13, 1 und 0
+was bedeuten die Tarotkarten der großen arkana mit den zahlen 11, 13, 1 und 0
 
 Die Tarotkarten der großen Arkana mit den Zahlen 11, 13, 1 und 0 stehen für zentrale archetypische Themen und Lebenslektionen im Tarot. Ihre Bedeutungen sind klar definiert und haben jeweils eine tiefgründige symbolische Aussage[2][3][4][5].
 
@@ -76,3 +76,20 @@ Quellen:
 [8] Gerechtigkeit im Tarot: Bedeutung für Liebe & Beruf https://www.matchamornings.de/wellnessjournal/gerechtigkeit-tarot
 [9] Die Gerechtigkeit (Tarot) https://de.wikipedia.org/wiki/Die_Gerechtigkeit_(Tarot)
 [10] Die Kraft - deine Tarotkarte https://www.brigitte.de/horoskop/tarot/die-kraft---deine-tarotkarte-10890754.html
+
+
+# Die Reise und Reihenfolge
+
+Ja, in manchen Tarot-Traditionen wie dem Marseille-Tarot oder älteren Decks ist die Karte 11 tatsächlich "Die Gerechtigkeit" statt "Die Kraft" (die dann oft auf Position 8 steht). [tarot-entdecken](https://tarot-entdecken.de/tarotkarten/die-gerechtigkeit-bedeutung/)
+
+## Angepasste Einzelbedeutungen
+- **11 – Die Gerechtigkeit**: Symbolisiert Ausgewogenheit, Wahrheit, faire Entscheidungen und karmische Konsequenzen; sie fordert Objektivität und Verantwortung für Handlungen. [matchamornings](https://www.matchamornings.de/wellnessjournal/gerechtigkeit-tarot)
+- **13 – Der Tod**: Bleibt gleich – radikales Ende, Loslassen und Transformation für Neues. [meinspiel](https://www.meinspiel.de/blog/tarotkarten-bedeutung-die-grosse-arkana/)
+- **1 – Der Magier**: Unverändert – Schöpfungskraft, Manifestation und bewusste Nutzung von Potenzialen. [meinspiel](https://www.meinspiel.de/blog/tarotkarten-bedeutung-die-grosse-arkana/)
+- **0 – Der Narr**: Ebenfalls gleich – unbeschwerter Neuanfang, Sprung ins Unbekannte mit Vertrauen. [matchamornings](https://www.matchamornings.de/wellnessjournal/grosse-arkana-tarot)
+
+## Neue Gesamtinterpretation der Reihenfolge
+Mit Gerechtigkeit als Start wird die Legung zu einer Reise der **karmischen Abrechnung und Erneuerung**: Zuerst **Gerechtigkeit** (11) wiegt ab, was richtig oder falsch war, und bringt Klarheit über Konsequenzen. Das führt direkt zur **Transformation** (13 – Tod), wo Altes endgültig abgeschlossen wird. **Der Magier** (1) gibt dann die Werkzeuge, um aus dieser Reinigung Neues aktiv zu schaffen. Abschließend lädt **Der Narr** (0) zu einem freien, unbelasteten Neustart ein. [tarot-secret](https://tarot-secret.com/tarotkarten/major-arkana/11-die-gerechtigkeit/)
+
+Diese Variante betont noch stärker **Rechtmäßigkeit vor Wandel** – ein positives Zeichen für Themen wie Rechtsangelegenheiten, faire Lösungen oder Lebensbilanzen, die zu Wachstum führen. [wiki.yoga-vidya](https://wiki.yoga-vidya.de/Die_Gerechtigkeit_im_Tarot)
+
