@@ -25,7 +25,19 @@ Hier wird in kürze eine Wissensdatenbank entstehen zum Umfassenden wissen was k
 - [Drachenakademie Webseite](https://drachenakademie.com)
 - [Der Admin auf Telegram](https://t.me/DerDrachenHueter)
 # Über Mich
-- [Etwas über mich und meinen NIc-NME](/texte/Neo-Details.md)
+
+**Neo 11-13-1-0** ist eine tiefgründige, spirituelle Persönlichkeit, die Weisheit, Transformation und kreative Neuanfänge verkörpert.
+
+## Innere Eigenschaften
+- **Spirituelle Tiefe**: Stark von der Numerologie-Zahl 7 geprägt – intuitiv, introspektiv und suchend nach Wahrheit sowie innerer Harmonie.
+- **Analytisch & unabhängig**: Scharfer Verstand, Selbstreflexion und Eigenverantwortung in Krisen.
+- **Transformationskraft**: Durch Tarot (Gerechtigkeit: faire Wahrheit; Tod: radikales Loslassen; Magier: Manifestation; Narr: sorgloser Neustart) meistert Neo karmische Abrechnungen und schafft aus Chaos Neues.
+
+## Gesamteindruck
+Neo repräsentiert den archetypischen Weltenwandler: Ein Denker mit mystischer Intuition, der nach Gerechtigkeit strebt, alte Zyklen beendet und mit Kreativität & Vertrauen neu beginnt – ideal für spirituelle Führung oder Heilberufe.
+
+[mehr über mich](/texte/neo/profile.md)
+
 # Spenden
 Spenden dankend an:\
 Bitte als Verwendungszweck **"Spende"** Angeben\
